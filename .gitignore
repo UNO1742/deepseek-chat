@@ -1,2 +1,13 @@
 # Local Netlify folder
 .netlify
+.netlify-cli*
+
+# Package caches
+.npm-cache/
+
+# Python venv
+.venv/
+
+# OS files
+Thumbs.db
+.DS_Store
