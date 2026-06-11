@@ -1,0 +1,7 @@
+.venv/
+.npm-cache/
+.netlify-cli-appdata/
+.netlify-cli-local/
+.netlify-cli-config/
+.netlify/
+测试1

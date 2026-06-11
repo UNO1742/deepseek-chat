@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/"
+  to = "/deepseek-chat-deploy.html"
+  status = 200
+
